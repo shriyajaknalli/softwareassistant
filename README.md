@@ -3,12 +3,6 @@
 
 # 🚀 **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT]
 
-
-
-https://github.com/user-attachments/assets/9e8f4586-fbe9-4c6b-8e81-3c8e76721a0e
-
-
-
 ---
 
 ## 🔧 About DevFlow
@@ -16,6 +10,12 @@ https://github.com/user-attachments/assets/9e8f4586-fbe9-4c6b-8e81-3c8e76721a0e
 **DevFlow** is an all-in-one software development assistant that streamlines the **entire SDLC** — from UML design and unit test generation to documentation management and validation — all inside a secure, Linux-based virtual workspace.
 
 ---
+
+
+https://github.com/user-attachments/assets/9e8f4586-fbe9-4c6b-8e81-3c8e76721a0e
+
+
+
 
 ## ✨ Key Features
 
