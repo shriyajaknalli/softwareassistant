@@ -50,6 +50,16 @@ https://github.com/user-attachments/assets/9e8f4586-fbe9-4c6b-8e81-3c8e76721a0e
 
 ---
 
+SRS Document Generation
+DevFlow introduces a powerful document generation assistant that enables seamless creation of Software Requirements Specification (SRS) documents using natural language prompts and context-aware understanding.
+
+🚀 Current Capabilities
+Use the @DOCGEN command in the chatbot to generate a complete SRS document with just a single line of input.
+For example:
+![DOCGEN](https://files.catbox.moe/eyxp6m.png)
+
+---
+
 ### ✅ Verify & Validate
 - Auto-run test cases, score software quality, and suggest improvements.
 
@@ -66,11 +76,23 @@ https://github.com/user-attachments/assets/9e8f4586-fbe9-4c6b-8e81-3c8e76721a0e
 
 ---
 
-## 📦 Local Installation (Preview Only)
+## Installation
+To run **DevFlow** locally, follow these steps:
 
-> For preview purpose only — full codebase not available.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/umarocks/DevFlow.git
+   ```
 
-```bash
-git clone https://github.com/umarocks/DevFlow.git
-cd DevFlow
-docker compose up --build
+2. Navigate into the project directory:
+   ```bash
+   cd DevFlow
+   ```
+
+3. Docker Compose:
+   ```bash
+   docker compose up --build
+   ```
+## Contact
+For any inquiries, you can reach out via email:
+Shriya.jaknalli@gmail.com
