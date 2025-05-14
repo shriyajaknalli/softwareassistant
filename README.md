@@ -3,11 +3,11 @@
 
 # 🚀 **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT]
 
-🔒 **Codebase is Private**  
-> *If you wish to review the codebase, please schedule a virtual meeting.*  
 
-**Project Timeline**: Ongoing for ~1.5 months  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/shriyaj)
+
+https://github.com/user-attachments/assets/9e8f4586-fbe9-4c6b-8e81-3c8e76721a0e
+
+
 
 ---
 
