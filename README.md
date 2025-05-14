@@ -23,8 +23,8 @@ https://github.com/user-attachments/assets/9e8f4586-fbe9-4c6b-8e81-3c8e76721a0e
 - Use commands like `@SEQUENCE`, `@ACTIVITY`, `@CLASS` to generate UML diagrams from SRS or chat input.
 - Visual and downloadable diagrams.
 <img width="864" alt="Screenshot 2025-03-19 at 10 31 56 PM" src="https://github.com/user-attachments/assets/4557eef1-af54-4909-87ec-acf06e492e69" />
-<img width="1405" alt="Screenshot 2025-03-17 at 3 36 42 PM" src="https://github.com/user-attachments/assets/55768cbf-cb7d-426b-a2aa-219ecdda617b" />
 
+<img width="1430" alt="Screenshot 2025-05-13 at 8 22 47 PM" src="https://github.com/user-attachments/assets/35e12b51-1efa-436c-9c4e-2c35ebb80103" />
 
 
 ---
@@ -57,7 +57,7 @@ DevFlow introduces a powerful document generation assistant that enables seamles
 🚀 Current Capabilities
 Use the @DOCGEN command in the chatbot to generate a complete SRS document with just a single line of input.
 For example:
-![DOCGEN](https://files.catbox.moe/eyxp6m.png)
+<img width="1378" alt="Screenshot 2025-05-13 at 9 48 00 PM" src="https://github.com/user-attachments/assets/53d9b070-69fb-40ef-8377-e4a5424e8899" />
 
 ---
 
